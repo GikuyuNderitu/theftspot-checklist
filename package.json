@@ -1,0 +1,23 @@
+{
+  "name": "theftspot_checklist",
+  "version": "0.0.1",
+  "description": "## Introduction   This project is to fulfill a need within implementation and on-boarding of   new systems. The objective is to reduce the amount of newly installed sites that slip through the cracks of manual tracking systems, keep a cohesive, concurrent record of any site as it goes through the installation process, and to persistently maintain data to have a record of the installs (if they need to be referenced in the future.)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GikuyuNderitu/theftspot-checklist.git"
+  },
+  "author": "Gikuyu Nderitu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GikuyuNderitu/theftspot-checklist/issues"
+  },
+  "homepage": "https://github.com/GikuyuNderitu/theftspot-checklist#readme",
+  "dependencies": {
+    "backbone": "^1.3.3"
+  }
+}
